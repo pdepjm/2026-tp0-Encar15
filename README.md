@@ -11,6 +11,10 @@ me gusta hacer son:
  <li> Escuchar música
  <li> Salir a distintos lugares
 
+# Foto
+<img src = "https://github.com/user-attachments/assets/7abd34a8-6192-40f7-8e3b-ed2e06a03cdc" width="500"> 
+
+
 
 
 
